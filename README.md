@@ -1,2 +1,6 @@
-# carbon_estimation
-A remote sensing-based carbon estimation project.
+**A remote sensing-based carbon stock estimation project.**
+
+# Project Title: Integrating Machine Learning and Satellite Laser Altimetry to Enhance Carbon Stock Estimation in Dryland Vegetation
+
+# BrieF Introduction
+Dryland  ecosystems,  which  comprise  40%  of  Earth's  land  surface,  are  important contributors  to  global  carbon  storage.  NASA’s  satellite  laser  altimetry  missions, such  as  ICESat-2  and  GEDI,  have significantly  improved  Earth  observations, particularly for precise and high-resolution measurements of terrestrial ecosystems. Yet, low height and sparse vegetation cover across steep gradients - often  found  in  drylands  -  are  challenging  for  satellite  laser  altimetry  systems  to quantify  vertically  and  horizontally.  This  study  advances  the  understanding  of detection thresholds and their associated uncertainty for quantifying dryland carbon  stocks  from  satellite-based  laser  altimetry.  We  utilize  data  from  ICESat-2 and GEDI to estimate vegetation heights in Reynolds Creek Experimental Watershed (RCEW), a dryland ecosystem predominantly covered by shrubs (e.g., sagebrush)  and  grasses.  We  aim  to  quantify  thresholds  and  uncertainty  of  data from each instrument and explore the power of combining their data for vegetation heights.  An  important consideration  is  how  topography  influences  uncertainty  in the vegetation heights.
