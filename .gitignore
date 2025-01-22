@@ -173,3 +173,4 @@ cython_debug/
 # Folders/directories to ignore
 data/
 documentations/
+papers/
